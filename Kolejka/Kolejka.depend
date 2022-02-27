@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637624588 source:d:\mati\moje programy\als\kolejka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
